@@ -1,0 +1,58 @@
+body {
+	font-family:   Verdana, Geneva, Tahoma, sans-serif;  
+	font-size: 100%;
+	width: 60%;          /* changed from 960 pixels */               
+	max-width: 1024px;                  
+	background-color:white;
+	margin: 10px auto;
+	
+	border: 1px solid wheat;
+}
+
+/* .form{
+    background-color: blueviolet;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+#container{
+	background-color: rgb(143, 215, 248);
+}
+
+.table{
+	background-color: rgb(250, 249, 177);
+}
+
+input[type=text] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+  }
+
+  h2{
+	font:Tahoma, Geneva, sans-serif;
+	font-size:11px;
+	color:rgb(87, 82, 82);
+	padding:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+
+/* the styles for the footer */
+footer {
+	clear: both;
+	width: 100%;                             
+	border-top: 1px solid #696056;
+	
+}
+footer p {
+	font-size: .75em;                        
+	text-align: right;
+	margin-right: 2.08%;  
+	color: rgb(97, 97, 245);                
+}
